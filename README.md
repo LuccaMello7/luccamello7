@@ -4,7 +4,7 @@
 ### Hello World, I'm Lucca 👋
 
 <p align="right">
-  
+  <img align="right" alt="GIF" src="https://github.com/LuccaMello7/luccamello7/blob/main/code.gif?raw=true" width="500" height="320" />
 </p>
 
 ## I'm a Experienced Support Engineer, Innovation Evangelist and Mentor!!
