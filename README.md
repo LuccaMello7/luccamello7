@@ -4,12 +4,10 @@
 ### Hello World, I'm Lucca 👋
 
 <p align="right">
-  <img align="right" alt="GIF" src="https://github.com/LuccaMello7/luccamello7/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/LuccaMello7/luccamello7/blob/main/code.gif?raw=true" width="400" height="320" />
 </p>
 
 ## I'm a Experienced Support Engineer, Innovation Evangelist and Mentor!!
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?raw=true"/>
 
 My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 
