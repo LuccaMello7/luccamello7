@@ -3,6 +3,10 @@
 
 ### Hello World, I'm Lucca 👋
 
+<p align="right">
+  
+</p>
+
 ## I'm a Experienced Support Engineer, Innovation Evangelist and Mentor!!
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?raw=true"/>
