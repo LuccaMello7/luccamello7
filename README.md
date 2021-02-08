@@ -3,8 +3,6 @@
 
 ### Hello World, I'm Lucca 👋
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?raw=true"/>
-
 ## I'm a Experienced Support Engineer, Innovation Evangelist and Mentor!!
 
 
@@ -45,4 +43,9 @@ My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 [instagram]: https://www.instagram.com/luccamello7/
 [linkedin]: https://www.linkedin.com/in/luccamello7/
 [portfolio]: https://github.com/LuccaMello7/Portfolio
+
+<details>
+  <summary>:large_blue_circle: GitHub Stats</summary>
+    <img align="right" alt="GIF" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?raw=true"/>
+  </details>
 
