@@ -7,15 +7,17 @@
   <img align="right" alt="GIF" src="https://github.com/LuccaMello7/luccamello7/blob/main/code.gif?raw=true" width="350" height="280" />
 </p>
 
-## I'm a Experienced Support Engineer, Innovation Evangelist and Mentor!!
+## I'm a Experienced Support Engineer and Tech Enthusiast!!
 
 My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 
 
 - 🔭 I’m currently working as Support Engineer at SAP.
-- 🌱 I’m currently learning everything
+- 📊 I’m currently learning Data Science
+- 📝 I write technical blogs and articles
 - 😄 I like cooking and skateboarding
-- 💬 Ask me about ...
+- 💬 Ask me about anything
+- 📙 Check out my [Resume]https://github.com/LuccaMello7/luccamello7/blob/main/Lucca%20Mello.pdf)
 - ⚡ Fun fact: ...
 
 ### Talk with me, I am kinda awesome:
