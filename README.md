@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**LuccaMello7/luccamello7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LuccaMello7/luccamello7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 
@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 - 😄 I like cooking and skateboarding
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
--->
 
 
-2021 Goals: Continue to provide the best customer service experience for SAP customers and develop my Data Science techniques
 
 
-Latest Projects & Articles:
