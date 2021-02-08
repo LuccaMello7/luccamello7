@@ -3,14 +3,24 @@
 <!--
 **LuccaMello7/luccamello7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
+
+Contact me on:
+📫 [LinkedIn](https://www.linkedin.com/in/luccamello7/)
+
+[Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccamello7&show_icons=true&theme=omni)
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working as Support Engineer at SAP.
+- 🌱 I’m currently learning everything
+- 😄 I like cooking and skateboarding
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+2021 Goals: Continue to provide the best customer service experience for SAP customers and develop my Data Science techniques
+
+
+Latest Projects & Articles:
