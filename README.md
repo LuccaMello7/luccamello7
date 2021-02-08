@@ -8,7 +8,7 @@ My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 Contact me on:
 📫 [LinkedIn](https://www.linkedin.com/in/luccamello7/)
 
-[Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccamello7&show_icons=true&theme=omni)
+[Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaMello7&show_icons=true&theme=omni)
 
 Here are some ideas to get you started:
 
