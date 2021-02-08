@@ -3,7 +3,7 @@
 
 ### Hello World, I'm Lucca 👋
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"/>
 
 ## I'm a Experienced Support Engineer, Innovation Evangelist and Mentor!!
 
