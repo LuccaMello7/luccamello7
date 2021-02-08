@@ -40,5 +40,9 @@ My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
-<br />
+
+
+[instagram]: https://www.instagram.com/luccamello7/
+[linkedin]: https://www.linkedin.com/in/luccamello7/
+[portfolio]: https://github.com/LuccaMello7/Portfolio
 
