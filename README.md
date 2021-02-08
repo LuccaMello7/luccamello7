@@ -17,7 +17,7 @@ My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 - 📝 I write technical blogs and articles
 - 😄 I like cooking and skateboarding
 - 💬 Ask me about anything
-- 📙 Check out my [Resume]https://github.com/LuccaMello7/luccamello7/blob/main/Lucca%20Mello.pdf)
+- 📙 Check out my [Resume](https://github.com/LuccaMello7/luccamello7/blob/main/Lucca%20Mello.pdf)
 - ⚡ Fun fact: ...
 
 ### Talk with me, I am kinda awesome:
