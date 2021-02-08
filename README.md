@@ -10,7 +10,7 @@ Contact me on:
 
 ![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaMello7&show_icons=true&theme=calm)
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working as Support Engineer at SAP.
 - 🌱 I’m currently learning everything
