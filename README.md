@@ -5,13 +5,9 @@
 
 ## I'm a Experienced Support Engineer, Innovation Evangelist and Mentor!!
 
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?raw=true"/>
 
 My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
-
-
-![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaMello7&show_icons=true&theme=calm)
-
 
 
 - 🔭 I’m currently working as Support Engineer at SAP.
@@ -46,6 +42,6 @@ My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 
 <details>
   <summary>:large_blue_circle: GitHub Stats</summary>
-    <img align="right" alt="GIF" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?raw=true"/>
+    ![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaMello7&show_icons=true&theme=calm)
   </details>
 
