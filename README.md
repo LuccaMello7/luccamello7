@@ -7,18 +7,18 @@
   <img align="center" alt="GIF" src="https://github.com/LuccaMello7/luccamello7/blob/main/code.gif?raw=true" width="800" height="500" />
 </p>
 
-## I'm a Experienced Support Engineer and Tech Enthusiast!!
+## I'm an Experienced Support Engineer and Tech Enthusiast!!
 
 My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 
 
-- 🔭 I’m currently working as Support Engineer at SAP.
+- 🔭 I’m currently working as a Support Engineer at SAP.
 - 📊 I’m currently learning Data Science
 - 📃 I write technical blogs and articles
 - 🥓 I like cooking and skateboarding 🛹
 - 💬 Ask me about anything
 - 📙 Check out my [Resume](https://github.com/LuccaMello7/luccamello7/blob/main/Lucca%20Mello.pdf)
-- 🎵 Fun fact: I like to listen Tango to relax
+- 🎵 Fun fact: I enjoy listening to Tango to relax
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="Lucca Mello | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
@@ -31,7 +31,7 @@ My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 <h3 align="left">Languages and Tools</h3>
 
 <p align="left"> 
-<a href="https://www.sap.com"<img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/> </a> 
+<a href="https://www.sap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" width="40" height="40"/></a>
