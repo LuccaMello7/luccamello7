@@ -3,8 +3,8 @@
 
 ### Hello World, I'm Lucca 👋
 
-<p align="right">
-  <img align="right" alt="GIF" src="https://github.com/LuccaMello7/luccamello7/blob/main/code.gif?raw=true" width="350" height="280" />
+<p align="center">
+  <img align="right" alt="GIF" src="https://github.com/LuccaMello7/luccamello7/blob/main/code.gif?raw=true" width="500" height="500" />
 </p>
 
 ## I'm a Experienced Support Engineer and Tech Enthusiast!!
