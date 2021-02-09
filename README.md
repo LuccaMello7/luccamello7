@@ -50,12 +50,6 @@ My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 - [Life is about cycles and why you should learn to be patient](https://medium.com/@lucca/life-is-about-cycles-and-why-you-have-to-learn-to-be-patient-b71cd7d85905)
 <!-- BLOG-POST-LIST:END -->
 
-
-
-[instagram]: https://www.instagram.com/luccamello7/
-[linkedin]: 
-[twitter]: https://twitter.com/lcmello77/
-
 <details>
   <summary>🥋 GitHub Stats</summary>
 
