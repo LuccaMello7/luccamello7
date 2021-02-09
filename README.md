@@ -21,8 +21,8 @@ My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 - 🎵 Fun fact: I enjoy listening to Tango to relax
 
 ### Talk with me, I am kinda awesome:
-[![Twitter Badge](https://img.shields.io/badge/-@lcmello77-00acee?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucca%20Mello-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccamello7/](https://www.linkedin.com/in/luccamello7/)
+[![Twitter Badge](https://img.shields.io/badge/-@lcmello77-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/lcmello77)](https://twitter.com/lcmello77) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucca%20Mello-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccamello7/)](https://www.linkedin.com/in/luccamello7/)
 [![Gmail Badge](https://img.shields.io/badge/-luccamello7@gmail.com-bb001b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luccamello7gmail.com)](mailto:luccamello7@gmail.com)
 
 
