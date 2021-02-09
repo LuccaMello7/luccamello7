@@ -21,15 +21,12 @@ My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 - 🎵 Fun fact: I enjoy listening to Tango to relax
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="Lucca Mello | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
-[<img align="left" alt="Lucca Mello | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
-[<img align="left" alt="Lucca Mello | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
+[![Twitter Badge](https://img.shields.io/badge/-@lcmello77-00acee?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucca%20Mello-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccamello7/](https://www.linkedin.com/in/luccamello7/)
+[![Gmail Badge](https://img.shields.io/badge/-luccamello7@gmail.com-bb001b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luccamello7gmail.com)](mailto:luccamello7@gmail.com)
 
 
-
-<br />
-
-<h3 align="left">Languages and Tools</h3>
+<h2 align="left">Languages and Tools</h2>
 
 <p align="left"> 
 <a href="https://www.sap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/> </a> 
@@ -56,7 +53,7 @@ My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 
 
 [instagram]: https://www.instagram.com/luccamello7/
-[linkedin]: https://www.linkedin.com/in/luccamello7/
+[linkedin]: 
 [twitter]: https://twitter.com/lcmello77/
 
 <details>
