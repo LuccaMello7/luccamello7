@@ -15,13 +15,15 @@ My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 - 🔭 I’m currently working as Support Engineer at SAP.
 - 📊 I’m currently learning Data Science
 - 📃 I write technical blogs and articles
-- 🛹 I like cooking and skateboarding
+- 🥓 I like cooking and skateboarding 🛹
 - 💬 Ask me about anything
 - 📙 Check out my [Resume](https://github.com/LuccaMello7/luccamello7/blob/main/Lucca%20Mello.pdf)
 - 🎵 Fun fact: I like to listen Tango to relax
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="Lucca Mello | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Lucca Mello | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+[<img align="left" alt="Lucca Mello | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
+[<img align="left" alt="Lucca Mello | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg />][twitter]
 
 <br />
 
@@ -53,7 +55,7 @@ My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 
 [instagram]: https://www.instagram.com/luccamello7/
 [linkedin]: https://www.linkedin.com/in/luccamello7/
-[portfolio]: https://github.com/LuccaMello7/Portfolio
+[twitter]: https://twitter.com/lcmello77
 
 <details>
   <summary>🥋 GitHub Stats</summary>
