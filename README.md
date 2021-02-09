@@ -22,8 +22,9 @@ My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="Lucca Mello | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
-[<img align="left" alt="Lucca Mello | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
 [<img align="left" alt="Lucca Mello | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
+[<img align="left" alt="Lucca Mello | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
+
 
 
 <br />
