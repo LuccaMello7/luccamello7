@@ -61,7 +61,7 @@ My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 <details>
   <summary>🥋 GitHub Stats</summary>
 
-  <img align="left" alt="Lucca's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuccaMello7&show_icons=true&hide_border=true" />
+  <img align="left" alt="Lucca's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuccaMello7&theme=dark&show_icons=truedracula" />
 
 </details>
   
