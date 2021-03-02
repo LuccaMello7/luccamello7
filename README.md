@@ -44,6 +44,7 @@ My name is Lucca Mello, I'm experienced Support Engineer living in Brazil.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Análise sobre a Criminalidade e Violência no Estado do RJ](https://lucca.medium.com/an%C3%A1lise-sobre-a-criminalidade-e-viol%C3%AAncia-no-estado-do-rj-a594f60f1d85)
 - [Airbnb Data Analysis - Buenos Aires - Ciudad Autónoma de Buenos Aires (C.A.B.A) - Argentina](https://www.linkedin.com/pulse/airbnb-data-analysis-buenos-aires-ciudad-aut%C3%B3noma-de-lucca-mello/)
 - [Support Spotlight: Top 5 Tips for Quick Copy in SAP Business One](https://www.linkedin.com/pulse/support-spotlight-top-5-tips-quick-copy-sap-business-one-lucca-mello/)
 - [A reinvenção do testador de software é necessária](https://medium.com/@lucca/a-reinven%C3%A7%C3%A3o-do-testador-de-software-%C3%A9-necess%C3%A1ria-a82accccda04)
