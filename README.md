@@ -12,7 +12,7 @@
 My name is Lucca Mello, I'm starting my careers in Data Analysis at SAP Concur after 6 years working at SAP as Support Engineer for SAP Business One -  also I'm living in Porto Alegre, Brazil.
 
 - 🧙 Pronouns: he/him
-- 🔭 I’m currently working as a Reporting Business Analyst at SAP Concur.
+- 🔭 I’m currently working as an Data Analyst at Unimed.
 - 📊 I’m currently learning Data Science
 - 📃 I write technical blogs and articles
 - 🥓 I like cooking and skateboarding 🛹
