@@ -9,7 +9,7 @@
 
 ## I'm an Experienced Support Engineer and Tech Enthusiast!!
 
-My name is Lucca Mello, I'm starting my careers in Data Analysis at SAP Concur after 6 years working at SAP as Support Engineer for SAP Business One -  also I'm living in Porto Alegre, Brazil.
+My name is Lucca Mello, I'm currently working as an Data Analyst at Unimed after 7 years working at SAP as Specialist Support Engineer for SAP Business One and Business Intelligence Analyst at SAP Concur -  also I live in Porto Alegre, Brazil.
 
 - 🧙 Pronouns: he/him
 - 🔭 I’m currently working as an Data Analyst at Unimed.
