@@ -3,9 +3,12 @@
 
 ### Hello World, I'm Lucca 👋
 
-<p align="center">
-  <img align="center" alt="GIF" src="https://media0.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif?cid=790b7611f5e951b5f14be1ccec41ab4b3d34172136957bc3&rid=giphy.gif&ct=g" width="750 height="700" />
-</p>
+<img align="right" width="40%" alt="GIF" src="https://media0.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif?cid=790b7611f5e951b5f14be1ccec41ab4b3d34172136957bc3&rid=giphy.gif&ct=g"  />
+
+[![Twitter Badge](https://img.shields.io/badge/-@lcmello77-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/lcmello77)](https://twitter.com/lcmello77) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucca%20Mello-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccamello7/)](https://www.linkedin.com/in/luccamello7/)
+[![Gmail Badge](https://img.shields.io/badge/-luccamello7@gmail.com-bb001b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luccamello7gmail.com)](mailto:luccamello7@gmail.com)
+<a href="https://medium.com/@lucca"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=20></a>
 
 ## I'm a Data Analyst and Tech Enthusiast!!
 
@@ -16,14 +19,9 @@ My name is Lucca Mello, I'm currently working as an Data Analyst at Unimed after
 - 📊 I’m currently learning Data Science
 - 📃 I write technical blogs and articles
 - 🥓 I like cooking and skateboarding 🛹
-- 💬 Ask me about anything
-- 📙 Check out my [Resume](https://github.com/LuccaMello7/luccamello7/blob/main/Lucca%20Mello.pdf)
 - 🎵 Fun fact: I enjoy listening to Tango to relax
 
-### Talk with me, I am kinda awesome:
-[![Twitter Badge](https://img.shields.io/badge/-@lcmello77-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/lcmello77)](https://twitter.com/lcmello77) 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucca%20Mello-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccamello7/)](https://www.linkedin.com/in/luccamello7/)
-[![Gmail Badge](https://img.shields.io/badge/-luccamello7@gmail.com-bb001b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luccamello7gmail.com)](mailto:luccamello7@gmail.com)
+
 
 
 <h2 align="left">Languages and Tools</h2>
@@ -40,7 +38,10 @@ My name is Lucca Mello, I'm currently working as an Data Analyst at Unimed after
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
 <a href="https://www.vim.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="40" height="40"/></a>
  </p>
- 
+
+### ♟️ Latest Tweets
+<p><a href="https://twitter.com/lcmello77"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=lcmello77&amp;layout=wide" alt="github-readme-twitter"></a></p>
+                                                                                                                                              
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
