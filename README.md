@@ -4,7 +4,7 @@
 ### Hello World, I'm Lucca 👋
 
 <p align="center">
-  <img align="center" alt="GIF" src="https://media0.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif?cid=790b7611f5e951b5f14be1ccec41ab4b3d34172136957bc3&rid=giphy.gif&ct=g" width="880 height="800" />
+  <img align="center" alt="GIF" src="https://media0.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif?cid=790b7611f5e951b5f14be1ccec41ab4b3d34172136957bc3&rid=giphy.gif&ct=g" width="750 height="700" />
 </p>
 
 ## I'm a Data Analyst and Tech Enthusiast!!
