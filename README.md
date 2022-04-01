@@ -7,7 +7,7 @@
   <img align="center" alt="GIF" src="https://github.com/LuccaMello7/luccamello7/blob/main/code.gif?raw=true" width="800" height="500" />
 </p>
 
-## I'm an Experienced Support Engineer and Tech Enthusiast!!
+## I'm a Data Analyst and Tech Enthusiast!!
 
 My name is Lucca Mello, I'm currently working as an Data Analyst at Unimed after 7 years working at SAP as Specialist Support Engineer for SAP Business One and Business Intelligence Analyst at SAP Concur -  also I live in Porto Alegre, Brazil.
 
