@@ -3,7 +3,7 @@
 
 ### Hello World, I'm Lucca 👋
 
-<img align="right" width="100%" alt="GIF" src="https://media0.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif?cid=790b7611f5e951b5f14be1ccec41ab4b3d34172136957bc3&rid=giphy.gif&ct=g"  />
+<img align="center" width="45%" alt="GIF" src="https://media0.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif?cid=790b7611f5e951b5f14be1ccec41ab4b3d34172136957bc3&rid=giphy.gif&ct=g"  />
 
 [![Twitter Badge](https://img.shields.io/badge/-@lcmello77-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/lcmello77)](https://twitter.com/lcmello77) 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucca%20Mello-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccamello7/)](https://www.linkedin.com/in/luccamello7/)
